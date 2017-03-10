@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@slack/client": "^3.8.1",
+    "node-schedule": "^1.2.0",
     "promise": "^7.1.1"
   }
 }
